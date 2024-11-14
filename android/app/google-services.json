@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787512723377",
+    "project_id": "mychatapp-be1ff",
+    "storage_bucket": "mychatapp-be1ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787512723377:android:2a9cd15960ad3358001f90",
+        "android_client_info": {
+          "package_name": "com.nguyenngoc.ngocchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACR7tEQJ-ryU5EBgSlpme8etk1v3WGhE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
